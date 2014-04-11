@@ -21,7 +21,7 @@ Callimachus provides a mechanism for the association of OWL class instances with
 
 Developers should be familiar with Callimachus and developing Callimachus applications.  Please see http://callimachusproject.org for assistance and documentation.  New developers may wish to discuss their plans on irc.freenode.net in the channel #callimachus.
 
-Development may occur within Callimachus or directly in the Git repository, but files must eventually be committed to a clone of this repository and a pull request issued.
+Development may occur within Callimachus or directly in the Git repository, but files must eventually be committed to a clone of this repository and a pull request issued. Please include individual files in your pull request, not the entire CAR file.
 
 Thank you for any contributions!
 
